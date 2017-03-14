@@ -1,0 +1,10 @@
+{
+    "name": "book-store-ui",
+    "description": "'UI project for the Book Store reactive application'",
+    "scripts": {},
+    "devDependencies": {
+        "awesome-typescript-loader": "^3.1.2",
+        "source-map-loader": "^0.2.0",
+        "typescript": "^2.2.1"
+    }
+}
